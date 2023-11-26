@@ -11,6 +11,7 @@ This is a solution to the [Age calculator app challenge on Frontend Mentor](http
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
+  - [The process](#the-process)
 - [Author](#author)
 
 ## Overview
