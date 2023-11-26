@@ -60,6 +60,27 @@ input:focus{
 }
 ```
 
+### The process
+![](./screenshots/htmlStructure.png)
+
+First I created my HTML structure
+
+![](./screenshots/javascriptAddition.png)
+
+I then added my Javascript code to create the base of the calculator
+
+![](./screenshots/wrongUsage.png)
+
+He didn't meet the requirements at all
+
+![](./screenshots/oneOfconditions.png)
+
+I then tested all my conditions with alert
+
+![](./screenshots/finalVersion.png)
+
+And finally my final version with CSS
+
 ## Author
 
 - My Bento - [seg1](https://bento.me/seg1)
